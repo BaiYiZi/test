@@ -1,3 +1,3 @@
 # test
 
-![code-organization][https://raw.githubusercontent.com/BaiYiZi/magic-box/main/go/universal-linked-list/image/code-organization.png "code-organization"]
+![code-organization][https://github.com/BaiYiZi/magic-box/raw/main/go/universal-linked-list/image/code-organization.png "code-organization"]
