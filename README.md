@@ -6,6 +6,7 @@
 # learn-gorm
 
 ## Api Tool
-[Apifox Website](https://apifox.com/){:target="_blank"}
+<a href="http://write.blog.csdn.net/postlist" target="_blank">Apifox Website</a>
 
-[Go to api online doc](https://apifox.com/apidoc/shared-231ac90e-4f16-4a6f-945e-2c56138d5ef2){:target="_blank"}
+<a href="http://write.blog.csdn.net/postlist" target="_blank">Go to api online doc</a>
+
